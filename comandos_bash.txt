@@ -1,0 +1,8 @@
+git
+
+ls = lista arquivos e pastas
+cd = muda de diretorio
+pwd = caminho absoluto do local
+ls -a = mostra arquivos ocultos
+cd .. = volta uma pasta acima
+cd . = é a propria pasta local
