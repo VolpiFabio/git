@@ -8,11 +8,3 @@ cd .. = volta uma pasta acima
 cd . = é a propria pasta local
 rm -rf nome_da_pasta = remove a pasta
 cat arquivo.xxx = mostra o conteudo do arquivo
-
-git init . = inicia o repositorio na pasta atual
-git status = mostra o status atual do diretorio
-git add nome_do_arquivo = prepara o arquivo para commit
-git commit -m 'primeiros comandos bash' = descrição do commit
-git config --global user.email 'email do usuario'
-gir config --global user.name 'nome do usuario'
-git logs = mostra o histórico de commits
