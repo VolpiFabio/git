@@ -4,3 +4,5 @@ git add nome_do_arquivo = prepara o arquivo para commit
 git commit -m 'primeiros comandos bash' = descrição do commit
 git config --global user.email 'email do usuario'
 gir config --global user.name 'nome do usuario'
+git logs = mostra o histórico de commits
+git add . = adiciona tudo da pasta atual
