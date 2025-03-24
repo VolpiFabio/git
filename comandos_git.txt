@@ -1,0 +1,6 @@
+git init . = inicia o repositorio na pasta atual
+git status = mostra o status atual do diretorio
+git add nome_do_arquivo = prepara o arquivo para commit
+git commit -m 'primeiros comandos bash' = descrição do commit
+git config --global user.email 'email do usuario'
+gir config --global user.name 'nome do usuario'
