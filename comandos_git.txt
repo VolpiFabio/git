@@ -1,4 +1,4 @@
-##### FLUXO DE TRABALHO ######
+------ FLUXO DE TRABALHO -------
 
 1. criar o diretório (pasta) do projeto
 2. iniciar o git dentro do diretório criado (git init .)
@@ -18,3 +18,6 @@ git config --global user.email 'email do usuario'
 gir config --global user.name 'nome do usuario'
 git logs = mostra o histórico de commits
 git add . = adiciona tudo da pasta atual
+git diff nome arquivo = retorna o que foi adicionado ou retirado do arquivo
+git reset nome arquivo = retira um arquivo de staged (que estaria pronto para comitar)
+
