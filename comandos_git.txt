@@ -18,6 +18,10 @@ git config --global user.email 'email do usuario'
 gir config --global user.name 'nome do usuario'
 git logs = mostra o histórico de commits
 git add . = adiciona tudo da pasta atual
+git checkout nome_da brach = troca a branch atual
+git branch = mostra quantas branchs tem criada
+git checkout -b nome_da_branch = cria uma nova branch
+git branch -d nome_da_branch = deleta a branch
 git diff nome arquivo = retorna o que foi adicionado ou retirado do arquivo
 git reset nome arquivo = retira um arquivo de staged (que estaria pronto para comitar)
 
