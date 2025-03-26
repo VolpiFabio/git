@@ -8,6 +8,8 @@ Confira tudo o que temos no nosso YouTube. É gratis! Segue o link:
 
 [Curso Git 2025](https://youtube.com/teomewhy)
 
+Alem do nosso yt, se ligue no nosso site e agenda para ficar por dentro de tudo que vai rolar em 2025
+
 
 ## Fluxo de trabalho Git local
 
